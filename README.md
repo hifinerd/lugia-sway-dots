@@ -10,6 +10,7 @@ This is a rice of the Sway tiling window manager, with the wallpaper made by [Ki
 |Program|Purpose|
 |-------|-------|
 |Sway   |Window manager|
+|dmenu| Application menu used by default|
 |mate-polkit|Polkit agent|
 |Waybar|Status bar|
 |Alacritty|Terminal used by default|
