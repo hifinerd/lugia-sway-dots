@@ -15,7 +15,7 @@ This is a rice of the Sway tiling window manager, with the wallpaper made by [Ki
 |Waybar|Status bar|
 |Alacritty|Terminal used by default|
 |Thunar|File explorer used by default|
-|[JetBrains Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/JetBrainsMono.zip)|Font used in the terminal and status bar\
+|[JetBrains Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/JetBrainsMono.zip)|Font used in the terminal and status bar|
 
 ## Optional dependencies
 These programs are shown in the screenshot, but are not required to use these dotfiles.
